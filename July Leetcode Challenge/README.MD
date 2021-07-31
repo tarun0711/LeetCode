@@ -8,3 +8,4 @@
 7. [Kth Smallest Element in a Sorted Matrix](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/class%20Ksmallest.java)
 8. [Maximum Length of Repeated Subarray](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/MaxSubArray.java)
 9. [Longest Increasing Subsequence](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/LongInSubSeq.java)
+10.[Decode Ways II](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/DecodeWays.java)
