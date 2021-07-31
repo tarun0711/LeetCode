@@ -1,4 +1,4 @@
-
+##[July leet Code Challenge](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/)
 1. [Gray Code](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/GrayCode.java)
 2. [Find K Closest Elements](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/KClosestElements.java)
 3. [Max Sum of Rectangle No Larger Than K](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/MaxSumofRec.java)
