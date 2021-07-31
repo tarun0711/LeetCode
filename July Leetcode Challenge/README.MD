@@ -6,3 +6,4 @@
 5. [Reshape the Matrix](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/ReShape.java)
 6. [Reduce Array Size to The Half](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/HalfArray.java)
 7. [Kth Smallest Element in a Sorted Matrix](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/class%20Ksmallest.java)
+8. [Maximum Length of Repeated Subarray](https://github.com/tathaastu-tarun/LeetCode/blob/main/July%20Leetcode%20Challenge/MaxSubArray.java)
