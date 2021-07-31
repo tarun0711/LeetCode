@@ -1,12 +1,13 @@
+import java.util.*;
 class LongInSubSeq
 {
   public int lengthOfLIS(int[] nums)
   {
-    TreeNode<Integer> bst = new TreeNode<>();
+    TreeSet<Integer> bst = new TreeSet<>();
     for(int num : nums)
     {
-      int highOrEqual = bst.ceiling(num);
-      if(highOrEqual == null)
+      Integer highOrEqual = bst.ceiling(num);
+      if( highOrEqual == null )
         bst.add(num);
       else
       {
@@ -14,6 +15,6 @@ class LongInSubSeq
         bst.add(num);
       }
     }
-    return bst;
+    return bst.size();
   }
 }
