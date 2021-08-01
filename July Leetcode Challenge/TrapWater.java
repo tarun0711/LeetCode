@@ -35,5 +35,24 @@ class TrapWater
     }
     
     return ans;
+    //Stack Approach
+//     Stack<Integer> stack = new Stack<Integer>();
+        
+//         int water =0,i=0;
+//         while(i<height.length)
+//         {
+//             if(stack.isEmpty() || height[i] <= height[stack.peek()])
+//                 stack.push(i++);//push curent value of height and increment i 
+//             else
+//             {
+//                 int curr = stack.pop();
+//                 if(!stack.empty())
+//                 {
+//                     int min = Math.min(height[i],height[stack.peek()]);
+//                     water = water + (min-height[curr])*(i-stack.peek()-1);
+//                 }
+//             }
+//         }
+//         return water;
   }
 }
