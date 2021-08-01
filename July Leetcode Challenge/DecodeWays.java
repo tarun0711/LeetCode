@@ -1,6 +1,6 @@
 class DecodeWays {
-     int M = 1000000007;
-    public int numDecodings(String s) 
+    int M = 1000000007;
+    public int numDecodings(String s)
     {
         long first = 1, second = s.charAt(0) == '*' ? 9 : s.charAt(0) == '0' ? 0 : 1;
         for (int i = 1; i < s.length(); i++) {
